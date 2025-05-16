@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='osarch',
-    version='0.0.2',
+    version='2025.5.160657',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='Detect system OS and architecture.',
